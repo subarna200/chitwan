@@ -984,7 +984,33 @@ body{
 	#shrtinfo .pto .text-desc p {
 	 font-size: 0.5em;
 	}
-	
+	.details_1 ul {
+		width: 100%;
+		padding-top: 0px;
+	   }
+	   .details_2 p {
+		padding-top: 0px;
+		padding-bottom: 0px;
+	   }
+	   .details_4 p {
+		padding-top: 10px;
+		padding-bottom: 0px;
+	   }
+	   .details_6 p {
+		padding-top: 10px;
+	   }
+	   .details_8 li {
+		margin: 1px;
+	   }
+	   .details_8 li a {
+		padding: 8px 10px;
+	   }
+	   .details_9 li {
+		margin: 1px;
+	   }
+	   .details_15 p a {
+		padding: 10px 10px 12px 10px;
+	   }
 	.header_3{
 		   padding-bottom:20px;
 		   padding-top:0;
@@ -1102,6 +1128,26 @@ body{
 	.footer_1 h2 {
 	 font-size: 20px;
 	}
+	.details_8 li a {
+		padding: 8px 2px;
+	   }
+	   .details_8 li {
+		margin: 2px;
+	   }
+	   .details_9 li {
+		margin: 0px;
+		font-size: 14px;
+	   }
+	   .product_1 p a {
+		font-size: 13px;
+	   }
+	   .details_13 textarea {
+		font-size: 12px;
+	   }
+	   .details_15 p a {
+		padding: 12px 5px 12px 5px;
+		font-size: 10px;
+	   }
 	#about {
 	 padding-top: 100px;
 	}
@@ -1177,6 +1223,18 @@ body{
 	#header .navbar-default.navbar-shrink .navbar-brand {
 	 font-size: 45px;
 	}
+	.details_1 ul {
+		width: 85%;
+	   }
+	   .details_8 li a {
+		padding: 8px 10px;
+	   }
+	   .details_9 li {
+		margin: 3px;
+	   }
+	   .details_15 p a {
+		padding: 12px 10px 12px 10px;
+	   }
 	.contact_3 li {
 	 font-size: 20px;
 	}
